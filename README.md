@@ -28,4 +28,6 @@ The telecommunications industry faces a significant challenge in retaining custo
 We've used open-source IBM Dataset used in telecommunications sector to track customer turnover. It was initially published in the IBM Community and now available on Kaggle website. Source:  https://www.kaggle.com/datasets/blastchar/telco-customer-churn
 The dataset contains 7,043 customers and 21 variables. 
 
+Medium Blog Link: https://medium.com/@hakkapa1/telco-customer-churn-prediction-2237c7656c60
+
 </p>
